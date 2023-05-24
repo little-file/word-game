@@ -9,10 +9,10 @@ python3.6 version or newse
 
 **to make it run**
 
-(MacOs/linux)\
+(MacOs/linux)
 >source dependencies/myenv/bin/activate
 
-(Windows)\
+(Windows) 
 >dependencies\myenv\Scripts\activate
 
 ```I havent added yet
