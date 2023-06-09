@@ -1,4 +1,4 @@
-#!/home/load/project/word-game/myenv/bin/python
+#!/home/load/project/word-game/dependencies/myenv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys

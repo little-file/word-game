@@ -1,20 +1,24 @@
-**WORD-Game**
+# **WORD-Game**
 
 *For now only türkçe(turkish)*
 
-**`apps required to run `**
+### apps required to run
 
 python3.6 version or newse
 
 
-**to make it run**
+### **to make it run**
 
 (MacOs/linux)
->source dependencies/myenv/bin/activate
+```
+$source dependencies/myenv/bin/activate
+
+$python src/main.py
+```
 
 (Windows) 
->dependencies\myenv\Scripts\activate
+```
+$dependencies\myenv\Scripts\activate
 
-```I havent added yet
-python src/main.py
+$python src/main.py
 ```
